@@ -1,4 +1,4 @@
-# iptables
+# Firewall
 
 http://www.fs-security.com/
 
