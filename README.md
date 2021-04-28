@@ -14,7 +14,7 @@ https://www.ipfire.org/
 
 Endian 
 
-https://www.endian.com/community/download/
+https://www.endian.com/community/
 
 http://www.fs-security.com/
 
